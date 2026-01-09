@@ -1,0 +1,7 @@
+# GitHub Labels Configuration
+# This file defines the labels for the repository
+# To sync these labels with GitHub, use github-label-sync or the GitHub CLI
+
+- name: "Pages"
+  color: "0075ca"
+  description: "Related to GitHub Pages deployment and website functionality"
