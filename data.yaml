@@ -2,57 +2,14 @@ courses:
   - title: "📁 Course Repositories"
     description: "Python, Advanced Python, DevOps, and real-world projects"
     link: "https://github.com/banyanfoundry"
-  
-  # - title: "🧪 Automated Testing"
-  #   description: "Assignments with automated testing and validation"
-  #   link: "https://github.com/banyanfoundry"
-  
-  # - title: "🧭 Learning Paths"
-  #   description: "Clear, structured paths from fundamentals to advanced topics"
-  #   link: "https://github.com/banyanfoundry"
-  
-  # - title: "📝 Open Documentation"
-  #   description: "Transparent documentation and practical examples"
-  #   link: "https://github.com/banyanfoundry"
 
 philosophy:
   - icon: "🌱"
     title: "Strong Foundations"
     description: "Foundations matter more than speed. We focus on deep understanding over quick completion."
   
-  # - icon: "🧠"
-  #   title: "Understanding Over Memorization"
-  #   description: "Learn how things actually work, not just what to write for an exam."
-  
-  # - icon: "🛠️"
-  #   title: "Learning by Doing"
-  #   description: "Real work, real repositories, real code reviews — just like engineering teams."
-  
-  # - icon: "🔍"
-  #   title: "Transparency"
-  #   description: "Everything is open. No hidden systems, no artificial gatekeeping."
-  
-  # - icon: "📚"
-  #   title: "Growth Mindset"
-  #   description: "Focus on capability and continuous improvement, not certificates."
-  
-  # - icon: "⚡"
-  #   title: "Real-World Ready"
-  #   description: "Learn how things work in the industry, not just in textbooks."
 
 howItWorks:
   - number: "01"
     title: "📁 GitHub Repositories"
     description: "Courses are organized as GitHub repositories with clear module structure."
-  
-  # - number: "02"
-  #   title: "💻 Code-Based Assignments"
-  #   description: "Submit assignments through code, not forms. Real engineering workflows."
-  
-  # - number: "03"
-  #   title: "🔁 Code Reviews & Feedback"
-  #   description: "Get feedback through code reviews, automated tests, and iteration."
-  
-  # - number: "04"
-  #   title: "📊 Visible Progress"
-  #   description: "Track your progress transparently, just like in real engineering teams."
